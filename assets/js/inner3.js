@@ -1,0 +1,1 @@
+document.getElementById("gallery").innerHTML="<img src="https://unsplash.it/200/">
